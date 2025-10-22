@@ -4,6 +4,7 @@ An interactive Reversi/Othello board game that pairs a minimax-based AI opponent
 <p align=center>
 <img src="https://github.com/user-attachments/assets/faffa2c5-c7f8-4727-b217-b6fcb768c6ab" alt="animated" />
 </p>
+
 ## Features
 
 - Human-vs-AI Othello gameplay using the standard 8×8 board.
