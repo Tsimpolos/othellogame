@@ -42,16 +42,6 @@ python src/othello.py
 4. The AI responds automatically. Continue until both sides are forced to pass.
 5. Review the final score; replay, change difficulty, or exit.
 
-## Project Structure
-
-```
-src/
-├── othello.py      # Game logic and Pygame UI
-├── linear.py       # Coursework remnants (unused by the game)
-├── polynomial.py   # Coursework remnants (unused by the game)
-└── testing.py      # Legacy tests/utilities
-```
-
 ## Credits
 
 - Original Othello logic by Panagiotis, Toby, and Aadya.
