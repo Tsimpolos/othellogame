@@ -2,7 +2,7 @@
 
 An interactive Reversi/Othello board game that pairs a minimax-based AI opponent with a modern Pygame interface. The project lets you play as black, choose an AI difficulty, and enjoy a polished experience inspired by [eothello.com](https://www.eothello.com/).
 <p align=center>
-<img src="[demo.gif](https://github.com/user-attachments/assets/faffa2c5-c7f8-4727-b217-b6fcb768c6ab)" alt="animated" />
+<img src="https://github.com/user-attachments/assets/faffa2c5-c7f8-4727-b217-b6fcb768c6ab" alt="animated" />
 </p>
 ## Features
 
