@@ -1,7 +1,9 @@
 # Othello AI with Pygame UI
 
 An interactive Reversi/Othello board game that pairs a minimax-based AI opponent with a modern Pygame interface. The project lets you play as black, choose an AI difficulty, and enjoy a polished experience inspired by [eothello.com](https://www.eothello.com/).
-
+<p align=center>
+![Image](https://github.com/user-attachments/assets/faffa2c5-c7f8-4727-b217-b6fcb768c6ab)
+</p>
 ## Features
 
 - Human-vs-AI Othello gameplay using the standard 8×8 board.
